@@ -17,9 +17,6 @@ El siguiente paso sera incluir diseño responsivo.
 
 ## Vista Previa del Proyecto
 
-Referencia
-![Sidebar de Windows 11](./windowsSidebar.png)
-
 Replica
 ![Sidebar de Windows 11](./sidebar.png)
 
